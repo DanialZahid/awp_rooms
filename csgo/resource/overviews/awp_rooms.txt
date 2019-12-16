@@ -1,0 +1,12 @@
+"awp_rooms"
+{
+	"material"		"overviews/awp_rooms"
+	"pos_x"			"-1447"
+	"pos_y"			"1271"
+	"scale"			"3.00"
+
+	"CTSpawn_x"		"0.50"
+	"CTSpawn_y"		"0.23"
+	"TSpawn_x"		"0.50"
+	"TSpawn_y"		"0.63"
+}
