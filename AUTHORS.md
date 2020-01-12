@@ -1,7 +1,3 @@
-# Rooms - AUTHORS
+# Rooms (awp_rooms) - Authors
 
-## Authors
-
-### Original Author
-
-* Danial Zahid [**Level designer**]
+* Danial Zahid [**Level design**] (danialz@pm.me)
