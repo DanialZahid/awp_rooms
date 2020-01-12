@@ -1,4 +1,4 @@
-# Rooms - LICENSE
+# Rooms (awp_rooms) - License
 
 You are **allowed** to install this content.
 

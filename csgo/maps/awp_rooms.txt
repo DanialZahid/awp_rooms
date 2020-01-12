@@ -1,15 +1,2 @@
-
-
-Rooms - Sniper War
-
-Level designed by: Danial Zahid
-
-Get in touch with me:
-
-* Email address: danialz@pm.me
-* Discord username: Danial Zahid#2017
-* Portfolio: http://danialzahid.ga
-* Twitter: @DanialZahid17
-* GitHub: https://github.com/DanialZahid/
-* GameBanana: https://gamebanana.com/members/1336101
-* Steam: https://steamcommunity.com/id/DanialZahid/
+COMMUNITYMAPCREDITS:
+Danial Zahid
